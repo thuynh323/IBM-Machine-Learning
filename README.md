@@ -1,5 +1,8 @@
 # IBM-Machine-Learning
 ## [1. Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning)
+<details>
+  <summary>Details</summary>
+  
 ### Contents covered:
 > 1. A Brief History of Modern AI and its Applications
 > 2. Retrieving Data, Exploratory Data Analysis, and Feature Engineering
@@ -18,7 +21,8 @@
 > - Conducting a formal significance test for one of the hypotheses and discuss the results 
 > - Suggestions for next steps in analyzing this data
 > - A paragraph that summarizes the quality of this data set and a request for additional data if needed
+</details>
 
-### Submission:
+Submission:
 - [Project report](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/1-EDA/Project-1-Report.pdf)
 - [Jupyter Notebook](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/1-EDA/Project-1.ipynb)
