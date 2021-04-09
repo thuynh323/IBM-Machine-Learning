@@ -25,7 +25,7 @@
 
 Submission:
 - [Project Report](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/1-EDA/Project-1-Report.pdf): Board games EDA
-- [Jupyter Notebook](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/1-EDA/Project-1.ipynb)
+- [Jupyter Notebook](https://nbviewer.jupyter.org/github/thuynh323/IBM-Machine-Learning/blob/master/1-EDA/Project-1.ipynb) - via Jupyter Notebook Viewer
 - [Data Source](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/data/board_games.csv)
 ## [2. Supervised Learning: Regression](https://www.coursera.org/learn/supervised-learning-regression)
 <details>
@@ -52,5 +52,5 @@ Submission:
 
 Submission:
 - [Project Report](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/2-Supervised-Learning-Regression/Project-2-Report.pdf): Predict price of used Ford cars
-- [Jupyter Notebook](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/2-Supervised-Learning-Regression/Project-2.ipynb)
+- [Jupyter Notebook](https://www.kaggle.com/thanhhuynh/linear-regression-and-regularization-ford) - via Kaggle
 - [Data Source](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/data/ford.csv)
