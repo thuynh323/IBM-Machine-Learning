@@ -3,12 +3,12 @@
 <details>
   <summary>Details</summary>
   
-### Contents covered:
+### Contents covered
 > 1. A Brief History of Modern AI and its Applications
 > 2. Retrieving Data, Exploratory Data Analysis, and Feature Engineering
 > 3. Inferential Statistics and Hypothesis Testing
 
-### Project requirements:
+### Project requirements
 > ...spend some time finding a data set that you are really passionate about. This can be a data set similar to the data you have available at work or data you have always wanted to analyze. For some people this will be sports data sets, while some other folks prefer to focus on data from a datathon or data for good.
 >
 > Once you have selected a data set, you will produce the deliverables listed below and submit them to one of your peers for review. Treat this exercise as an opportunity to produce analysis that are ready to highlight your analytical skills for a senior audience, for example, the Chief Data Officer, or the Head of Analytics at your company.
@@ -23,7 +23,7 @@
 > - A paragraph that summarizes the quality of this data set and a request for additional data if needed.
 </details>
 
-Submission:
+### Submission
 - [Project Report](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/1-EDA/Project-1-Report.pdf): Board games EDA
 - [Jupyter Notebook](https://nbviewer.jupyter.org/github/thuynh323/IBM-Machine-Learning/blob/master/1-EDA/Project-1.ipynb) - via Jupyter Notebook Viewer
 - [Data Source](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/data/board_games.csv)
@@ -31,12 +31,12 @@ Submission:
 <details>
   <summary>Details</summary>
   
-### Contents covered:
+### Contents covered
 > 1. Introduction to Supervised Machine Learning and Linear Regression
 > 2. Data Splits and Cross Validation
 > 3. Regression with Regularization Techniques: Ridge, LASSO, and Elastic Net
 
-### Project requirements:
+### Project requirements
 > ...spend some time finding a data set that you are really passionate about. This can be a data set similar to the data you have available at work or data you have always wanted to analyze. For some people this will be sports data sets, while some other folks prefer to focus on data from a datathon or data for good.
 >
 > Once you have selected a data set, you will produce the deliverables listed below and submit them to one of your peers for review. Treat this exercise as an opportunity to produce analysis that are ready to highlight your analytical skills for a senior audience, for example, the Chief Data Officer, or the Head of Analytics at your company.
@@ -50,7 +50,7 @@ Submission:
 > - Suggestions for next steps in analyzing this data, which may include suggesting revisiting this model adding specific data features to achieve a better explanation or a better prediction.
 </details>
 
-Submission:
+### Submission
 - [Project Report](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/2-Supervised-Learning-Regression/Project-2-Report.pdf): Predict price of used Ford cars
 - [Jupyter Notebook](https://www.kaggle.com/thanhhuynh/linear-regression-and-regularization-ford) - via Kaggle
 - [Data Source](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/data/ford.csv)
