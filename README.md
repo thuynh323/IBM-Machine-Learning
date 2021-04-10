@@ -3,7 +3,7 @@
 <details>
   <summary>Details</summary>
   
-### Contents covered
+### Topics covered
 > 1. A Brief History of Modern AI and its Applications
 > 2. Retrieving Data, Exploratory Data Analysis, and Feature Engineering
 > 3. Inferential Statistics and Hypothesis Testing
@@ -31,7 +31,7 @@
 <details>
   <summary>Details</summary>
   
-### Contents covered
+### Topics covered
 > 1. Introduction to Supervised Machine Learning and Linear Regression
 > 2. Data Splits and Cross Validation
 > 3. Regression with Regularization Techniques: Ridge, LASSO, and Elastic Net
