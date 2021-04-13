@@ -25,7 +25,7 @@
 
 ### Submission
 - [Project Report](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/1-EDA/Project-1-Report.pdf): Board games EDA
-- [Jupyter Notebook](https://www.kaggle.com/thanhhuynh/board-games-eda?scriptVersionId=59511306) - via Kaggle
+- [Jupyter Notebook](https://www.kaggle.com/thanhhuynh/board-games-eda?scriptVersionId=59513677) - via Kaggle
 - [Data Source](https://github.com/thuynh323/IBM-Machine-Learning/blob/master/data/board_games.csv)
 ## [2. Supervised Learning: Regression](https://www.coursera.org/learn/supervised-learning-regression)
 <details>
